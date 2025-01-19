@@ -31,4 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
-/src/main/java/org/example/soapdemo/dto/generated/countries/*
+/src/main/java/org/example/soapdemo/dto/generated/*
